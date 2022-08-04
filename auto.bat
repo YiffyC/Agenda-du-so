@@ -1,0 +1,1 @@
+cscript "C:\Users\lxdie\A&B corp\LE DODO - Documents\AutoupdateAgenda.vbs"
